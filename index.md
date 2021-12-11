@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Benvinguts al meu blog!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+En aquest blog parlaré sobre les meves experiències com a programador d'aplicacions web.
